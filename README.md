@@ -17,7 +17,7 @@ _The original [nvm](https://github.com/nvm-sh/nvm) is a completely separate proj
 <details>
 <summary><b>Latest vs Stable?</b></summary>
   
-The latest version (v1.2.x) is a [transition version]([https://](https://opensource.author.io/nvm-for-windows-v120))as we complete work on [Runtime](https://github.com/coreybutler/nvm-windows/wiki/Runtime), the successor to NVM for Windows. However; there is a known bug that may impact some users when installing old (EOL) versions of Node.js. The last stable version supports most EOL versions.
+The latest version (v1.2.x) is a [transition version]([https://](https://opensource.author.io/nvm-for-windows-v120)) as we complete work on [Runtime](https://github.com/coreybutler/nvm-windows/wiki/Runtime), the successor to NVM for Windows. However; there is a known bug that may impact some users when installing old (EOL) versions of Node.js. The last stable version supports most EOL versions.
 
 Some companies need very specific features of both versions, which is not possible with today's public releases. While we recommend waiting for Runtime (anticipated March release), if you need a private release, contact support@author.io to arrange a paid support contract.
 </details>
